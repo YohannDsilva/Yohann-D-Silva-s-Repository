@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name>
+# Hi, I'm <Yohann>
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
@@ -8,6 +8,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 
 ## About me
 A short intro (interests, goals, tools I’m learning).
+Yohann D'Silva
 
 ---
 *Update this page by editing `index.md` in your repository.*
